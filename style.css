@@ -35,7 +35,7 @@ h1{
     }
 h2{
     font-size: 32px;
-    border-bottom: 1px grey solid;
+    border-bottom: 1px grey;
     border-color: grey;
     margin-bottom: 8px;
 }
